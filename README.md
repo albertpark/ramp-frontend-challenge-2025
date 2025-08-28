@@ -4,7 +4,7 @@
 
 This project demonstrates my proficiency in frontend development, aligning with the responsibilities and technical requirements of the Software Engineer | Frontend position at Ramp. The application is built using:
 
-- **React** (v16+)
+- **React** (v19+)
 
 ## Live Demo
 
